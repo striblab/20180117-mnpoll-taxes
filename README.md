@@ -1,4 +1,4 @@
-# Star Tribune - Minnesota Poll 2018: Sexual harassment survey
+# Star Tribune - Minnesota Poll 2018: Taxes
 
 Created by [Frey Hargarten](https://github.com/jeffhargarten).
 
